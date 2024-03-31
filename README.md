@@ -35,8 +35,12 @@ Here are some ideas to get you started:
 
 <div align="left">
 
+<!--
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,webpack,js,ts,php,java,c#,laravel,vue,spring,angular,materialui,styledcomponents,vuetify,nginx,tailwind,nodejs,git,github,gitlab,express,mysql,figma,vscode,vagrant,bash,linux,postman,aws,blender&perline=19&theme=light)](https://skillicons.dev)
-  
+-->
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,webpack,js,ts,java,php,cs,laravel,vue,spring,angular,react,redux,materialui,styledcomponents,vuetify,tailwind,vite,nodejs,git,github,gitlab,express,mysql,figma,vscode,bash,postman,docker,aws&perline=19&theme=light)](https://skillicons.dev)
   
   
   
